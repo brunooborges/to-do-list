@@ -1,8 +1,8 @@
 # To do list
 
-Projeto em React de uma simples lista de tarefas
+Projeto em React + Typescript de uma simples lista de tarefas
 
-React Project of a simple to do list
+React + Typescript Project of a simple to do list
 
 ## Available Scripts
 
