@@ -1,5 +1,7 @@
 # To do list
 
+[Live Site](https://brunooborges.github.io/to-do-list)
+
 Projeto em React de uma simples lista de tarefas
 
 React Project of a simple to do list
